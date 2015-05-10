@@ -1,0 +1,29 @@
+[
+
+{
+    "kindId": "drone",
+	"title": "Drone"
+  },
+{
+    "kindId": "house",
+	"title": "House"
+  },
+
+
+{
+    "kindId": "techno",
+	"title": "Techno"
+  },
+
+{
+    "kindId": "ambient",
+	"title": "Ambient"
+
+  },
+
+{
+    "kindId": "track",
+ 	"title": "Track"
+ }
+
+]

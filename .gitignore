@@ -1,0 +1,7 @@
+.bower-cache
+.bower-registry
+node_modules
+data
+public/system/lib
+test/coverage
+/dist/

@@ -1,0 +1,16 @@
+{
+  "name": "mean",
+  "version": "0.3.0",
+  "dependencies": {
+    "angular": "~1.3.0-rc.0",
+    "angular-resource": "latest",
+    "angular-cookies": "latest",
+    "angular-mocks": "latest",
+    "angular-route": "latest",
+    "bootstrap": "3.0.3",
+    "angular-bootstrap": "0.10.0",
+    "angular-ui-router": "#master",
+    "ng-clip": "latest",
+    "moment": "~2.8.3"
+  }
+}
